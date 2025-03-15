@@ -1,1 +1,1 @@
-it a application to build a connection between doctor and client 
+it a application to build a connection between doctor and client in real time
